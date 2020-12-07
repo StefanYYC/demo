@@ -2,17 +2,57 @@
    "users":[
       {
          "id":1,
-         "firstname":"Leanne",
-         "lastname":"Graham",
-         "email":"Sincere@april.biz",
-         "address":"14 rue de la Sambre, 59520, Marquette"
+         "firstname":"Stefan",
+         "lastname":"Speter",
+         "email":"stefan@speter.biz",
+         "address":"3 rue du lion"
+         "city": "Lyon",
+         "postal":"69000",
+         "description":"Stefan adore développer et créer des applications Flutter!",
+         "image":"https://avatars1.githubusercontent.com/u/32258096?s=400&u=39d026cf26ba5c84734be544566eb2c7bccad959&v=4"
       },
       {
          "id":2,
-         "firstname":"Leanne",
-         "lastname":"Graham",
-         "email":"Sincere@april.biz",
-         "address":"14 rue de la Sambre, 59520, Marquette"
+         "firstname":"Victor",
+         "lastname":"Dupont",
+         "email":"victor@dupont.biz",
+         "address":"1 rue Eiffel"
+         "city":"Paris",
+         "postal":"93000",
+         "description":"Victor adore jouer au Hockey et regarder des films!",
+         "image":"https://i.pinimg.com/originals/a2/de/39/a2de3954697c636276192afea0a6f661.jpg"
+      },
+      {
+         "id":3,
+         "firstname":"Pierre",
+         "lastname":"Alain",
+         "email":"pierre@alain.biz",
+         "address":"14 rue de la Sambre"
+         "city":"Lille",
+         "postal":"59000",
+         "description":"Pierre aime manger au restaurant et peindre!",
+         "image":"https://i.pinimg.com/originals/ae/ec/c2/aeecc22a67dac7987a80ac0724658493.jpg"
+      },
+      {
+         "id":4,
+         "firstname":"Paul",
+         "lastname":"Sartre",
+         "email":"paul@sartre.biz",
+         "address":"1 rue Eiffel"
+         "city":"Paris",
+         "postal":"93000",      
+         "description":"Paul adore écrire et rêve de rédiger un livre!",
+         "image":"https://cdn.britannica.com/76/9476-050-6661C2E1/photograph-Jean-Paul-Sartre-Gisele-Freund-1968.jpg"
+      },
+      {
+         "id":5,
+         "firstname":"Yves",
+         "lastname":"Laurent",
+         "email":"yves@laurent.biz",
+         "city":"Paris",
+         "postal":"93000",      
+         "description":"Yves est un fan de mode et espère créer sa propre marque bientôt!",
+         "image":"https://cdn.artphotolimited.com/images/5b9fc1ecac06024957be8806/1000x1000/yves-saint-laurent-en-1957.jpg"
       }
    ]
 }
