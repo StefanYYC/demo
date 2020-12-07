@@ -1,16 +1,18 @@
-[
-   {
-      "id":1,
-      "firstname":"Leanne",
-      "lastname":"Graham",
-      "email":"Sincere@april.biz",
-      "address": "14 rue de la Sambre, 59520, Marquette"
-   },
-   {
-      "id": 2,
-      "firstname":"Leanne",
-      "lastname":"Graham",
-      "email":"Sincere@april.biz",
-      "address": "14 rue de la Sambre, 59520, Marquette"
-   }
-]
+{
+   "users":[
+      {
+         "id":1,
+         "firstname":"Leanne",
+         "lastname":"Graham",
+         "email":"Sincere@april.biz",
+         "address":"14 rue de la Sambre, 59520, Marquette"
+      },
+      {
+         "id":2,
+         "firstname":"Leanne",
+         "lastname":"Graham",
+         "email":"Sincere@april.biz",
+         "address":"14 rue de la Sambre, 59520, Marquette"
+      }
+   ]
+}
