@@ -5,7 +5,7 @@
          "firstname":"Stefan",
          "lastname":"Speter",
          "email":"stefan@speter.biz",
-         "address":"3 rue du lion"
+         "address":"3 rue du lion",
          "city": "Lyon",
          "postal":"69000",
          "description":"Stefan adore développer et créer des applications Flutter!",
@@ -16,7 +16,7 @@
          "firstname":"Victor",
          "lastname":"Dupont",
          "email":"victor@dupont.biz",
-         "address":"1 rue Eiffel"
+         "address":"1 rue Eiffel",
          "city":"Paris",
          "postal":"93000",
          "description":"Victor adore jouer au Hockey et regarder des films!",
@@ -27,7 +27,7 @@
          "firstname":"Pierre",
          "lastname":"Alain",
          "email":"pierre@alain.biz",
-         "address":"14 rue de la Sambre"
+         "address":"14 rue de la Sambre",
          "city":"Lille",
          "postal":"59000",
          "description":"Pierre aime manger au restaurant et peindre!",
@@ -38,7 +38,7 @@
          "firstname":"Paul",
          "lastname":"Sartre",
          "email":"paul@sartre.biz",
-         "address":"1 rue Eiffel"
+         "address":"1 rue Eiffel",
          "city":"Paris",
          "postal":"93000",      
          "description":"Paul adore écrire et rêve de rédiger un livre!",
